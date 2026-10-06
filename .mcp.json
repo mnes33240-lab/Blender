@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "mixar": {
+      "command": "cmd.exe",
+      "args": [
+        "/d",
+        "/c",
+        "C:\\Users\\nrp90\\.mixar\\connector\\mixar-mcp.cmd"
+      ]
+    }
+  }
+}
